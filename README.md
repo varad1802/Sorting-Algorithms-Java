@@ -50,3 +50,13 @@ Repository for comparison based sorting algorithms in Java. This was implemented
 
    > This command will call the main class of insertion sort code and give you the output as the original list and the sorted list printed based on the data size and the type of array given as input.
 
+## Sample Output Times For Random Array in milliseconds:
+
+Data size Algorithm | Insertion sort | Merge sort | Heap sort | Inplace Quick sort | Modified Quick sort
+--------------------|----------------|------------|-----------|--------------------|---------------------
+10000 | 24 | 2 | 2 | 1 | 1
+20000 | 31 | 2 | 1 | 1 | 1
+25000 | 49 | 4 | 2 | 1 | 1
+50000 | 197 | 7 | 4 | 3 | 3
+75000 | 446 | 10 | 7 | 5 | 5
+100000 | 791 | 14 | 10 | 6 | 7
