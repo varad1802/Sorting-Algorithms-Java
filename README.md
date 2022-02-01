@@ -53,7 +53,7 @@ Repository for comparison based sorting algorithms in Java. This was implemented
 ## Sample Output Times For Random Array in milliseconds:
 
 Data size Algorithm | Insertion sort | Merge sort | Heap sort | Inplace Quick sort | Modified Quick sort
---------------------|----------------|------------|-----------|--------------------|---------------------
+:--------------------:|:----------------:|:------------:|:-----------:|:--------------------:|:---------------------:
 10000 | 24 | 2 | 2 | 1 | 1
 20000 | 31 | 2 | 1 | 1 | 1
 25000 | 49 | 4 | 2 | 1 | 1
