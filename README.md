@@ -1,5 +1,5 @@
 # Sorting-Algorithms-Java
-Repository for comparison based sorting algorithms in Java. This was implemented as part of data structures and algorithms coursework under Dr. Dewan Ahmed at UNC, Charlotte
+Repository for comparison of sorting algorithms in Java. The code will run various sorting algorithms on different inputs and compare their running times. This was implemented as part of data structures and algorithms coursework under Dr. Dewan Ahmed at UNC, Charlotte
 
 ## Prerequisites to run the code:
 * Make sure you have java installed and added to your path. You can check the same by typing **```java --version```** in the terminal.
