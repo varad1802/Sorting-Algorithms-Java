@@ -1,11 +1,11 @@
 # Sorting-Algorithms-Java
 Repository for comparison based sorting algorithms in Java. This was implemented as part of data structures and algorithms coursework under Dr. Dewan Ahmed at UNC, Charlotte
 
-# Prerequisites to run the code:
+## Prerequisites to run the code:
 * Make sure you have java installed and added to your path. You can check the same by typing **```java --version```** in the terminal.
 * Make sure you have maven installed in your system (Only required if you want to make any changes else zip file comes with the executable jar in the target folder). You can check if maven is installed on your system by typing **```mvn --version```** in the terminal.
 
-# Steps to run the program:
+## Steps to run the program:
 
 1. Download the zip file and unzip the code at the desired location.
 
